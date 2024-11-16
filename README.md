@@ -1,7 +1,7 @@
 <H3> Name : Abrin Nisha A</H3>
 <H3> Register No : 212222230005</H3>
 <H3> Experiment 1</H3>
-<H3>DATE : 01-09-2024</H3>
+
 
 <H1 ALIGN=CENTER> Implementation of Bayesian Networks</H1>
 
